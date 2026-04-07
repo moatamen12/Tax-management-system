@@ -1,0 +1,4 @@
+*.env
+*.log
+DO_NOT_UPLOAD/*
+/DO_NOT_UPLOAD/
